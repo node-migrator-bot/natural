@@ -1,3 +1,9 @@
+
+NOTICE
+======
+
+This project has been transfered to [NaturalNode/natural](https://github.com/NaturalNode/natural), please follow it there.
+
 natural
 =======
 
